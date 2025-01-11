@@ -62,7 +62,7 @@ HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', 'https://t.me/ipapcorn_update/59') 
 # Shortner 
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'teraboxlinks.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', '0b23e284bc1e5feb2a265256c35e4236c18e193d')
+SHORTLINK_API = environ.get('SHORTLINK_API', '616f6cdb10532dcd5b89e6b7c2d507f5310010a5')
 TUTORIAL = environ.get('TUTORIAL', 'ttps://t.me/ipapcorn_update/59') # Tutorial video link for opening shortlink website 
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 
