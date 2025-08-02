@@ -86,8 +86,7 @@ HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', 'https://t.me/i_PapkornXBot/232')  
 # ============================
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'softurl.in')
-SHORTLINK_API = environ.get('SHORTLINK_API', '32ca9882210b1fbe3e2382848f1cabbf904bd2e4
-')
+SHORTLINK_API = environ.get('SHORTLINK_API', '32ca9882210b1fbe3e2382848f1cabbf904bd2e4')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/i_PapkornXBot/232')  # Tutorial video link for opening shortlink website
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 
